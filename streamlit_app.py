@@ -72,7 +72,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      labels[0]: {
        "texts": ["다큐멘터리는 사실을 기록하려한 시각적 작품이다."],
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
-    #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
+       "videos": ["https://youtu.be/4N32QroLvmw?si=9_U4kAUEhQinGajP"]
      },
 }
 
