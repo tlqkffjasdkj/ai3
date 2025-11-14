@@ -76,11 +76,16 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      },
 
      labels[1]: {
-       "texts": ["드라마는 등장인물의 대화와 행동을 중심으로 이야기를 전달하는 예술 형식이다.."],
+       "texts": ["드라마는 등장인물의 대화와 행동을 중심으로 이야기를 전달하는 예술 형식이다."],
        "images": ["https://dimg.donga.com/wps/NEWS/IMAGE/2022/04/05/112694426.1.jpg"],
        "videos": ["https://youtu.be/jVjQQDSj2yc?si=D8dhh2jVpJTTm640"]
      },
 
+     labels[2]: {
+       "texts": ["영화는 촬영한 영상과 음향을 스크린에 투영하여 보여주는 영상물이다."],
+       "images": ["https://www.news1.kr/_next/image?url=https%3A%2F%2Fi3n.news1.kr%2Fsystem%2Fphotos%2F2024%2F7%2F12%2F6756942%2Fhigh.jpg&w=1920&q=75"],
+       "videos": ["https://www.youtube.com/watch?v=At5AE_gdrlg&pp=ygUG7JiB7ZmU"]
+     },
 }
 
 # ======================
